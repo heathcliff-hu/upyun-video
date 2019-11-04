@@ -1,6 +1,6 @@
 {
   "name": "upyun-video",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "又拍云视频同步处理 SDK",
   "main": "index.js",
   "scripts": {
